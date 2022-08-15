@@ -6,9 +6,9 @@ Os principais arquivos de acesso ao estudo estão organizados de acordo com a ta
 
 | ARQUIVO        | DESCRIÇÃO |
 |----------------|-----------------------|
-|`Amostra_ICCNorte.xlsx`  | Base de dados   |
-|`Relatorio_ICCNorte.pdf`  |Relatório de coleta e análise de dados|
-|`Codigo_ICCNorte.sav`|Código em linguagem SAS utilizado para o estudo|
+|`Amostra_ICCnorte.xlsx`  | Base de dados   |
+|`Relatorio_ICCnorte.pdf`  |Relatório de coleta e análise de dados|
+|`Codigo_ICCnorte.sav`|Código em linguagem SAS utilizado para o estudo|
 
 ## **Outros:**
 Na pasta "Outros" é possível encontrar os arquivos adicionais do estudo
