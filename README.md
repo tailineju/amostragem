@@ -20,8 +20,13 @@ Na pasta "Outros" é possível encontrar os arquivos adicionais do estudo
 
 ## **Autores:**
 Ana Carolina G. V. Vianna
+
 Ana Clara A. Haidar
+
 Ana Luiza C. de Almeida
+
 Daniel Miranda Rocha
+
 Rafael Costa Ramos
+
 Tailine J. S. Nonato
