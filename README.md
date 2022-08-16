@@ -8,7 +8,8 @@ Os principais arquivos de acesso ao estudo estão organizados de acordo com a ta
 |----------------|-----------------------|
 |`Amostra_ICCnorte.xlsx`  | Base de dados   |
 |`Relatorio_ICCnorte.pdf`  |Relatório de coleta e análise de dados|
-|`Codigo_ICCnorte.sav`|Código em linguagem SAS utilizado para o estudo|
+|`Codigo_ICCnorte.sas`|Código em linguagem SAS utilizado para o estudo|
+|`Slides_ICCnorte.pptx`|Apresentação de slides utilizada|
 
 ## **Outros:**
 Na pasta "Outros" é possível encontrar os arquivos adicionais do estudo
